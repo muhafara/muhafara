@@ -1,5 +1,5 @@
 
-**Hi, :wave:** My name is **Faran Muhammad**. I am currently working as a **"Junior Full Stack Python Developer"** at "[Xander Talent](https://www.xandertalent.com/)". I am passionate to learn different skills in information technology there fore I love to spend my time :point_down:
+**Hi, :wave:** My name is **Faran Muhammad**. I am currently working as a **"Junior Full Stack Python Developer"** at "[Xander Talent](https://www.xandertalent.com/)". I am passionate to learn different skills in information technology therefore I love to spend my time :point_down:
 ![github image](https://user-images.githubusercontent.com/92796969/204105725-d317d7fd-6a7f-4ddc-9bc4-c15fa796eb62.gif)
 
 ## I would describe my self as a "Self-Learner"

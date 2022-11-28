@@ -4,7 +4,7 @@
 
 ## I would describe my self as a "Self-Learner"
 
-I have comleted my bechlor in **Software Engineering**. After graduation, I worked as an Amazon Associate in one of the europe biggest Amazon warehouse. While working as a full time I decide to learn more skills and I have completed  various courses such as:
+I have completed my bechlor in **Software Engineering**. After graduation, I worked as an Amazon Associate in one of the europe biggest Amazon warehouse. While working as a full time I decide to learn more skills and I have completed various courses such as:
 
 ## Diploma in web development:
 

@@ -8,7 +8,7 @@ I have completed my bechlor in **Software Engineering**. After graduation, I wor
 
 ## Diploma in web development:
 
-<img src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU' width=100> <img src ='https://cdn-icons-png.flaticon.com/512/888/888847.png' width=100> <img src ='https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png' width=100> <img src ='https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-hq-png-1.png' width=100>
+<img src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU' width=100> <img src ='https://cdn-icons-png.flaticon.com/512/888/888847.png' width=100> <img src ='https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png' width=100> <img src ='https://w7.pngwing.com/pngs/172/554/png-transparent-javascript-html-computer-software-web-browser-watermark-angle-text-rectangle.png' width=100>
 
 ## Diploma in advanced software and web development:
 
@@ -25,4 +25,5 @@ I have completed my bechlor in **Software Engineering**. After graduation, I wor
 ## Connect with me:
 
 [<img src ='https://cdn-icons-png.flaticon.com/512/174/174857.png' width=100>](https://www.linkedin.com/in/faran-muhammad-b635bb230/)
+
 
